@@ -1,0 +1,9 @@
+.business-list {
+  display: grid;
+  width: auto;
+  grid-template-columns: 20% 20% 20% 20%;
+  grid-gap: 50px;
+  overflow-y: hidden;
+  justify-content: center;
+  margin-top: 80px;
+}

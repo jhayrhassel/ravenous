@@ -1,0 +1,41 @@
+.business-img {
+  height: 300px;
+  width: 300px;
+}
+
+.business-name {
+  display: flex;
+  align-items: start;
+  margin: 0px 0px 0px 40px;
+}
+
+.business-details {
+  display: flex;
+  justify-content: space-around;
+  margin: 5px 0px 20px;
+}
+
+.business-address {
+  display: flex;
+  align-items: start;
+  flex-direction: column;
+}
+
+.business-category {
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+}
+
+.business-rating {
+  font-size: 15px;
+}
+
+.rating-color {
+  color: #cca353;
+}
+
+p,
+h3 {
+  margin: 0;
+}
